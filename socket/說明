@@ -1,0 +1,6 @@
+1.此程式碼僅能在linux中執行 由於windows不支援select(sys.stdin,[],[])語法
+2.請先開啟server在開啟client 
+3.client為tkinter製作請先確認電腦中有安裝tkinter
+4.clientforterminal 單純一個class並沒有引用tkinter模塊為撰寫的過程
+5.server端要踢人的話輸入 kick + account即可
+6.原始帳號為 account:root     password:123456789
